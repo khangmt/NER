@@ -1,0 +1,2 @@
+
+python train.py --train_file train.csv --do_train --output_dir "/Users/maitrongkhang/WorkingSpace/NER/output" --input_dir "/Users/maitrongkhang/WorkingSpace/NER/input" --model_name_or_path bert-base-uncased --need_birnn --do_eval
